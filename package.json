@@ -1,0 +1,29 @@
+{
+  "name": "vue_study",
+  "version": "1.0.0",
+  "description": "vue gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uestchl/vue_study.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "raul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uestchl/vue_study/issues"
+  },
+  "homepage": "https://github.com/uestchl/vue_study#readme",
+  "devDependencies": {
+    "bower": "^1.8.4",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-connect": "^5.5.0"
+  },
+  "dependencies": {}
+}

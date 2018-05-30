@@ -1,0 +1,7 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+bower_components
+dist
+node_modules

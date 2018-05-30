@@ -1,0 +1,23 @@
+{
+  "name": "vue_study",
+  "description": "vue gulp",
+  "main": "index.js",
+  "authors": [
+    "raul"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "vue"
+  ],
+  "homepage": "https://github.com/uestchl/vue_study",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue": "^2.5.16"
+  }
+}
